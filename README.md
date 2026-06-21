@@ -2,7 +2,7 @@
 
 # 👋 Welcome to My GitHub Profile
 
-[![Visitor Badge](https://komarev.com/ghpvc/?username=csr40-web&color=brightgreen&style=flat-square)](https://github.com/csr40-web)
+[![Visitor Badge](https://komarev.com/ghpvc/?username=srinith-ch&color=brightgreen&style=flat-square)](https://github.com/srinith-ch)
 
 ## 🚀 Passionate Software Engineering Student | Learning • Building • Growing
 
@@ -43,7 +43,7 @@ Hi there! I'm **CHENNURI SRINITH**, a passionate **B.Tech student** dedicated to
 
 ### 🔧 Tools & Platforms
 [![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/csr40-web)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/srinith-ch)
 [![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 
 ### 📖 Core Concepts
@@ -56,11 +56,11 @@ Hi there! I'm **CHENNURI SRINITH**, a passionate **B.Tech student** dedicated to
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=csr40-web&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/csr40-web)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinith-ch&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/srinith-ch)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=csr40-web&theme=tokyonight&hide_border=true)](https://github.com/csr40-web)
+[![GitHub Streak](https://streak-stats.demolab.com?user=srinith-ch&theme=tokyonight&hide_border=true)](https://github.com/srinith-ch)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=csr40-web&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/csr40-web)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=srinith-ch&theme=tokyonight&layout=compact&hide_border=true)](https://github.com/srinith-ch)
 
 </div>
 
@@ -70,7 +70,7 @@ Hi there! I'm **CHENNURI SRINITH**, a passionate **B.Tech student** dedicated to
 
 <div align="center">
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=csr40-web&theme=darkhub&no-frame=false&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/csr40-web)
+[![Trophy](https://github-profile-trophy.vercel.app/?username=srinith-ch&theme=darkhub&no-frame=false&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/srinith-ch)
 
 </div>
 
@@ -109,6 +109,6 @@ I'm always open to collaborating on interesting projects, learning from fellow d
 
 ### ⭐ If you find my projects helpful, please consider giving them a star!
 
-[![Profile Views](https://komarev.com/ghpvc/?username=csr40-web&color=blue&style=flat-square)](https://github.com/csr40-web)
+[![Profile Views](https://komarev.com/ghpvc/?username=srinith-ch&color=blue&style=flat-square)](https://github.com/srinith-ch)
 
 </div>
